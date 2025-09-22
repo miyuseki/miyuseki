@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Miyu Seki
 
 I’m a third-year student at a vocational school in Fukuoka, studying software development and design.  
-My main focus is **UI/UX design**, **rapid prototyping**, and **frontend development** using **React / TypeScript / Flutter**.  
-I like building prototypes that turn ideas into something people can actually try out, learn from, and improve quickly.
+My main focus is UI/UX design, rapid prototyping, and web application development.I like building prototypes that turn ideas into something people can actually try out, learn from, and improve quickly.
 
 <p align="center">
   <a href="https://miyuseki.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1AA7ED?logo=githubpages&logoColor=white"></a>
